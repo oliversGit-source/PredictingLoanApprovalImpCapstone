@@ -6,7 +6,7 @@ This repository contains an analysis and predictive modelling project evaluating
 ## Project Structure
 Jupyter Notebook: FinancialRiskCapstone3.ipynb contains all the code, analysis, and results. Jupyter notebook link: https://github.com/oliversGit-source/PredictingLoanApprovalImpCapstone/blob/main/FinancialRiskCapstone3.ipynb
 
-Data: Includes preprocessed and cleaned data with detailed steps for imputation, outlier handling, and feature transformations. The raw data can be found in the data folder.
+Data: Includes preprocessed and cleaned data with detailed steps for outlier handling and pre-processing. The raw data can be found in the data folder.
 
 README: Provides an overview of the project, methods, and key findings.
 ## Summary of Findings
