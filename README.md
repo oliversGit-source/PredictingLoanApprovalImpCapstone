@@ -1,4 +1,5 @@
 # Predicting Loan Approval - Binary Classification of Financial Risk Dataset
+![mortgage-default-1140x524.jpg](attachment:da520870-d848-414f-bf1a-22c2bae1e8d9.jpg)
 *Imperial Business School - Professional Certificate in Data Analytics Capstone Project - Oliver Butterworth-Bakhshi*
 
 This repository contains an analysis and predictive modelling project evaluating ML classification algorithms on a Financial Risk dataset. The objective of the study is to improve the binary classification model of loan approval in order to reduce the costs of customers defaulting on their loans to lenders.
