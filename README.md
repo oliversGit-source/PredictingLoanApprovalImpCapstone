@@ -27,3 +27,9 @@ README: Provides an overview of the project, methods, and key findings.
     * Use local SHAP analysis of best performing model to further validate conclusions.
     * Either improve the performance of feature-compatible models, or find a way to show feature analysis for the best performing SVC model. 
     * Estimate business impact for a single bank: request and use a company dataset in a similar manner to this study.
+
+## Mobile App using Streamlit
+
+I have created a mobile app to highlight the "real world" impact to the UK banking sector of this data science project. Click on the link below to head to the app!
+
+https://mobileloancostapp-q4a9vpsebx2vffwlnly5dr.streamlit.app
