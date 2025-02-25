@@ -1,5 +1,5 @@
-# Predicting Loan Approval 
-# Imperial Business School - Professional Certificate in Data Analytics Capstone Project
+# Predicting Loan Approval - Binary Classification of Financial Risk Dataset
+# Imperial Business School - Professional Certificate in Data Analytics Capstone Project - Oliver Butterworth-Bakhshi
 This repository contains an analysis and predictive modelling project evaluating ML classification algorithms on a Financial Risk dataset. The objective of the study is to improve the binary classification model of loan approval in order to reduce the costs of customers defaulting on their loans to lenders.
 ## Project Structure
 Jupyter Notebook: FinancialRiskCapstone3.ipynb contains all the code, analysis, and results. Jupyter notebook link: 
