@@ -3,7 +3,7 @@
 
 This repository contains an analysis and predictive modelling project evaluating ML classification algorithms on a Financial Risk dataset. The objective of the study is to improve the binary classification model of loan approval in order to reduce the costs of customers defaulting on their loans to lenders.
 ## Project Structure
-Jupyter Notebook: FinancialRiskCapstone3.ipynb contains all the code, analysis, and results. Jupyter notebook link: 
+Jupyter Notebook: FinancialRiskCapstone3.ipynb contains all the code, analysis, and results. Jupyter notebook link: https://github.com/oliversGit-source/PredictingLoanApprovalImpCapstone/blob/main/FinancialRiskCapstone3.ipynb
 
 Data: Includes preprocessed and cleaned data with detailed steps for imputation, outlier handling, and feature transformations. The raw data can be found in the data folder.
 
